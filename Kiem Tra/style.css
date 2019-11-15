@@ -138,13 +138,16 @@ img.ima {
 .hov:hover{
 	background: blue;
 }
-.carousel-caption:hover{
-	background: blue;
 
-}
 .text-primary:hover{
 background: blue;
 }
-.tieude .text-center{
+.tieude .text-center:hover{
+	background: blue;
+}
+.mt-4:hover{
+	background: blue;
+}
+.car-imam .p-1{
 	background: blue;
 }
