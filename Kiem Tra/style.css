@@ -1,3 +1,150 @@
+.container{
+	background: #b8c2d1;
+}
 .bg-dark{
+	width: 100%;
+	height: 10px;
+}
+.car-imam{
+	border-radius: 50%;
+    width: 6rem;
+    margin: 40px 0 40px 0;
+    
+}
+h5.text-uppercase.text-white {
+    margin-top: 3.5rem;
+    margin-left: -24.2rem;
+    font-size: 15px;
+}
+h1 {
+	margin-left: -27rem;
+	margin-top: -1rem;
+}
+a.nav-item.nav-link.active.bg-secondary:hover {
+    background: blue;
+}
+div#slideshow img {
+    width: 100%;
+    height: 600px;
+}
+div#slideshow {
+    width: 100%;
+    height: 600px;
+}
+li.dot {
+    cursor:pointer;
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+ }
+ li.dot.active {
+    width: 15px;
+    height: 15px;
+}
+a.text-white {
+    float: right;
+    margin-top: -24rem;
+    font-size: 3rem;
+    margin-right: 8rem;
+    font-family: Arial;
+}
+a.text-primary {
+    float: right;
+    margin-top: -16rem;
+    margin-right: 5.5rem;
+}
+ol.carousel-indicators {
+    margin-bottom: 8rem;
+}
+
+.bd.rounded-circle{
+	width: 8rem;
+	height: 8rem;
+	background: #767b7f;
+	background-image: url(img/caphe.jpeg);
+}
+
+.tieude.card-title{
+	margin-top: -30%;
+}
+.box1{
+	width: 3rem;
+	height: 3rem;
+	margin: 0 auto;
 	
+}
+.cong.rounded-circle{
+	width: 3rem;
+	height: 3rem;
+
+}
+.box2{
+	width: 8rem;
+	height: 8rem;
+	margin: 0 auto;
+	position: relative;
+	bottom: 6rem;
+
+}
+.bd.rounded-circle p{
+	color: #fff;
+	font-size: 2.2rem;
+}
+.bg-primary{
+	width: 100%;
+	height: 30px;
+}
+img.anhconner {
+    height: 124px;
+    padding-top: 5px;
+}
+
+.bg-primary.rounded-circle{
+	    width: 120px;
+    height: 120px;
+    margin: 107px 0 -207px 0px;
+}
+.bg-primary.rounded-circle {
+    font-size: 70px;
+    text-align: center;
+}
+li.list-group-item {
+    font-size: 12px;
+    padding: 12px;
+}
+svg.svg-inline--fa.fa-user-circle.fa-w-16 {
+    float: left;
+    font-size: 100px;
+    color: blue;
+        margin: -10px -191px 207px 309px;
+}
+img.ima {
+    width: 170px;
+    height: 150px;
+}
+.lehieu.container-fluid {
+    background: #5a5b5e;
+}
+.col-lg-3.col-md-6.col-sm-12 {
+	background: #5a5b5e;
+}
+.font-weight-bold:hover{
+	background: blue;
+}
+.hov:hover{
+	background: blue;
+}
+.carousel-caption:hover{
+	background: blue;
+
+}
+.text-primary:hover{
+background: blue;
+}
+.tieude .text-center{
+	background: blue;
 }
