@@ -1,0 +1,46 @@
+.khung{
+    background: #4e8ad9;
+}
+.blockquote{
+    /*line-height: 30px;*/
+    padding-top: 1rem;
+    text-indent: 4rem;
+    position: relative;
+}
+.blockquote:before{
+    position: absolute;
+    font-family: sans-serif;
+    content: "\201C";
+    font-size: 10rem;
+    top: -2.8rem;
+    left: -3.5rem;
+    color: #020101;
+    font-weight: bold;
+}
+.blockquote .connet{
+    padding-bottom: 2rem;
+}
+.ima img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left:20%;
+    margin-top: 84px;
+    margin-left: -180px;
+    border: 1rem solid  #736F6E;
+}
+div#my-div {
+    float: left;
+    margin: -16px 0 0 300px;
+       border-top: 70px solid #4e8ad9;
+    width: 0;
+    height: 0;
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+}
+.content{
+       float: right;
+    margin-right: 20rem;
+    font-size: 1.7rem;
+    margin-top: -10rem;
+    }

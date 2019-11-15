@@ -1,0 +1,13 @@
+/*Tao mot hinh tron*/
+.cirle-badge .badge{
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	box-sizing: border-box;
+	padding-top: 0.5rem;
+	background: #D91BEA;
+	float: left;
+}
+/*.badge{
+	float: right;
+}*/
